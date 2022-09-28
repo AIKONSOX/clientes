@@ -1,0 +1,1 @@
+document.querySelector('#encabezado').textContent='Reporte de clientes';
